@@ -2344,10 +2344,6 @@ input, select, textarea {
 		color: #ffffff;
 	}
 
-		.icon.alt:hover {
-			background-color: black;
-		}
-
 		.icon.alt:active {
 			background-color: black;
 		}
