@@ -2332,24 +2332,24 @@ input, select, textarea {
 		}
 
 	.icon.major {
-		border-color: rgba(255, 255, 255, 0.35);
+		border-color: black;
 	}
 
 		.icon.major:before {
-			border-color: rgba(255, 255, 255, 0.35);
+			border-color: black;
 		}
 
 	.icon.alt {
-		border-color: rgba(255, 255, 255, 0.35);
+		border-color: black;
 		color: #ffffff;
 	}
 
 		.icon.alt:hover {
-			background-color: rgba(255, 255, 255, 0.075);
+			background-color: black;
 		}
 
 		.icon.alt:active {
-			background-color: rgba(255, 255, 255, 0.2);
+			background-color: black;
 		}
 
 /* Image */
