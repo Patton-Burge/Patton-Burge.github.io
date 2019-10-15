@@ -166,7 +166,8 @@ input, select, textarea {
 	}
 
 		a:hover {
-			border-bottom-color: transparent;
+			color:black;
+			transform: scale(1.2);
 		}
 
 	strong, b {
@@ -2642,7 +2643,6 @@ input, select, textarea {
 			}
 
 				section.special header.major h2:after, article.special header.major h2:after {
-					margin-left: auto;
 					margin-right: auto;
 				}
 
@@ -2803,8 +2803,9 @@ input, select, textarea {
 
 		.features li {
 			width: calc(33.33333% - 2em);
-			margin-left: 2em;
-			margin-top: 3em;
+			margin-left: 1em;
+			margin-top: 1em;
+			margin-right: 1em;
 			padding: 0;
 		}
 
