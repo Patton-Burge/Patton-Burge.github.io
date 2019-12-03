@@ -1990,6 +1990,10 @@ input, select, textarea {
 		font-size: 0.9em;
 		font-weight: 400;
 		margin: 0 0 1em 0;
+		transition: .5s ease-in-out;
+	}
+	label:hover{
+		transform: scale(1.2);
 	}
 
 	input[type="text"],
